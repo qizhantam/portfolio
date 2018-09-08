@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Project Portfolio
 description: Hi there! This page contains a non-exhaustive list of my previous/ongoing projects.
-show_downloads: false
+show_downloads: true
