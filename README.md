@@ -1,6 +1,6 @@
 ## Under Construction
-[](https://openclipart.org/download/295167/just-bulldozer.svg)  
-While I consolidate my projects onto this page, check out my github repositories [here](https://github.com/qizhantam) and a slightly outdated list of projects [here](https://tamqizhan.wixsite.com/portfolio/).
+![](https://openclipart.org/download/295167/just-bulldozer.svg){:height="30%" width="30%"}  
+While I consolidate my stuff onto this page, check out my github repositories [here](https://github.com/qizhantam) and a slightly outdated list of projects [here](https://tamqizhan.wixsite.com/portfolio/).
 
 ## 2018
 ### Signal Temporal Logic meets Hamilton-Jacobi Reachability: Connections and Applications (WAFR 2018, co-first author)
