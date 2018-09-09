@@ -1,8 +1,9 @@
-## [https://openclipart.org/download/295167/just-bulldozer.svg] Under Construction
+## Under Construction
+(https://openclipart.org/download/295167/just-bulldozer.svg)
 While I consolidate my stuff onto this page, check out my github repositories [here](https://github.com/qizhantam) and a slightly outdated list of projects [here](https://tamqizhan.wixsite.com/portfolio/).
 
 ## 2018
-### Signal Temporal Logic meets Hamilton-Jacobi Reachability: Connections and Applications (WAFR 2018, co-first author) 
+### Signal Temporal Logic meets Hamilton-Jacobi Reachability: Connections and Applications (WAFR 2018, co-first author)
 The goal of this project is to merge STL with HJ-Reachability such that time-varying objectives of a robot can be achieved while guaranteeing safety. I worked on this project during my Master's degree in the [Stanford Autonomous Systems Laboratory](http://asl.stanford.edu/). You can find the details in the [paper](http://asl.stanford.edu/wp-content/papercite-data/pdf/Chen.Tam.Livingston.Pavone.WAFR18.pdf) which was recently accepted to the 2018 Workshop on the Algorithmic Foundations of Robotics. You can also watch the [experiments](https://www.youtube.com/watch?v=SI4bbBVkcgs&t=2s) or dive into the deep end with the [code](https://github.com/StanfordASL/stlhj).
 
 ### Drift Initiation via Nonlinear Trajectory Optimization
