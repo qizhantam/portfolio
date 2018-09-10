@@ -23,6 +23,6 @@ I developed this project for the students of ME420. It involved the quantum mech
 2018 Update: Modified for Slurm job scheduler (previously PBS).
 
 ## 2016-older
-I'm in the process of consolidating my 2016 and older projects onto this page, meanwhile check out those projects [here](https://tamqizhan.wixsite.com/portfolio/).  
-![](https://openclipart.org/download/295167/just-bulldozer.svg){:height="30%" width="30%"}  
+I'm in the process of consolidating my 2016 and older projects onto this page. You can check out those projects [here](https://tamqizhan.wixsite.com/portfolio/).  
+
 
