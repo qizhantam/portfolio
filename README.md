@@ -16,7 +16,7 @@ I leveraged upon the flocking instinct of herd animals in a [study](https://gith
 
 ## 2017
 ### Grid Stability Management and Price Arbitrage for Distributed Energy Storage and Generation via Reinforcement Learning
-I developed and implemented a reinforcement learning control policy for distributed batteries in a simulated residential environment using the IEEE 123 feeder model supplied with real user load and modeled solar generation. This was a course project for CS238: Decision Making under Uncertainty. The paper can be downloaded [here](https://github.com/qizhantam/portfolio/raw/master/docs/papers/AA228_Course%20Paper.pdf).
+I developed and implemented a reinforcement learning control policy for distributed batteries in a simulated residential environment using the IEEE 123 feeder model supplied with real user load and modeled solar generation. This was a course project for CS238: Decision Making under Uncertainty. The paper and the code can be found [here](https://github.com/qizhantam/CS238_GridStability_ReinforcementLearning).
 
 ### Density Functional Theory Computations for Li-ion Battery Materials (Teaching Material)
 I developed this project for the students of ME420. It involved the quantum mechanical calculations of Lithium Cobalt Oxide crystal structures to predict the voltage and volume changes of the crystals during charge cycling. All computations were done using [QuantumEspresso](https://www.quantum-espresso.org/) on Stanford's High Performance Computing Cluster. Course material can be found [here](https://github.com/qizhantam/ME420_DensityFunctionalTheory_LiBattery). The closing project discussion slides and the solutions to the assignments are made available upon request.  
