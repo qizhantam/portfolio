@@ -12,11 +12,11 @@ My team developed and implemented a [software stack]() of integrated perception 
 Designed and built a robot from the ground-up to accomplish tasks such as navigation by [following lines and depositing balls in designated bins](). Hardware components include IR-LEDs, phototransistors, DC brush motors, stepper motors, all controlled by a Teensy 3.2 microcontroller with a [state-space algorithm and feedback controller](https://github.com/srharris91/ME210_CowShots).
 
 ### Herding Animals through Social Integration of Robots and Leader-Follower Formation Control
-I leveraged upon the flocking instinct of herd animals in a [study]() to develop control methods for robots to herd animals using path-following and potential field navigation techniques.
+I leveraged upon the flocking instinct of herd animals in a [study](https://github.com/qizhantam/portfolio/raw/master/docs/papers/AA277_FinalPaper_QizhanTam.pdf) to develop control methods for robots to herd animals using path-following and potential field navigation techniques.
 
 ## 2017
 ### Grid Stability Management and Price Arbitrage for Distributed Energy Storage and Generation via Reinforcement Learning
-I developed and implemented a reinforcement learning control policy for distributed batteries in a simulated residential environment using the IEEE 123 feeder model supplied with real user load and modeled solar generation. This was a course project for CS238: Decision Making under Uncertainty. The paper can be downloadedg [here]().
+I developed and implemented a reinforcement learning control policy for distributed batteries in a simulated residential environment using the IEEE 123 feeder model supplied with real user load and modeled solar generation. This was a course project for CS238: Decision Making under Uncertainty. The paper can be downloaded [here](https://github.com/qizhantam/portfolio/raw/master/docs/papers/AA228_Course%20Paper.pdf).
 
 ### Density Functional Theory Computations for Li-ion Battery Materials
 This project involves the quantum mechanical calculation of Lithium Cobalt Oxide crystals to predict the voltage and volume change of the crystals during charge cycling. All computations were done using [QuantumEspresso](https://www.quantum-espresso.org/) on Stanford's High Performance Computing Cluster. I developed this project for the course ME420: Applied Electrochemistry at Micro- and Nanoscale. Course material can be found [here](). The closing project discussion slides and the solutions to the assignments are made available upon request.  
