@@ -24,4 +24,4 @@ This project involves the quantum mechanical calculation of Lithium Cobalt Oxide
 
 ## Under Construction
 ![](https://openclipart.org/download/295167/just-bulldozer.svg){:height="30%" width="30%"}  
-I'm still consolidating my 2016 and older projects onto this page, but you can still check them out [here](https://tamqizhan.wixsite.com/portfolio/).
+I'm in the process of consolidating my 2016 and older projects onto this page, but you can still check them out [here](https://tamqizhan.wixsite.com/portfolio/).
