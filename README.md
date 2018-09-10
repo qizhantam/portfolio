@@ -2,7 +2,7 @@
 ### Signal Temporal Logic meets Hamilton-Jacobi Reachability: Connections and Applications (WAFR 2018, co-first author)
 The goal of this project is to merge STL with HJ-Reachability such that time-varying objectives of a robot can be achieved while guaranteeing safety. I worked on this project during my Master's degree in the [Stanford Autonomous Systems Laboratory](http://asl.stanford.edu/). You can find the details in the [paper](http://asl.stanford.edu/wp-content/papercite-data/pdf/Chen.Tam.Livingston.Pavone.WAFR18.pdf) which was recently accepted to the 2018 Workshop on the Algorithmic Foundations of Robotics. You can also watch the [experiments](https://www.youtube.com/watch?v=SI4bbBVkcgs&t=2s) or dive into the deep end with the [code](https://github.com/StanfordASL/stlhj).
 
-### Drift Initiation via Nonlinear Trajectory Optimization (Course)
+### Drift Initiation via Nonlinear Trajectory Optimization
 For the AA203: Intro to Optimal Controls course, [John](https://github.com/JohnHaTrick) and I applied non-linear optimization techniques for state and control trajectories to initiate the Scandanavian Flick maneuver. We used the bicycle model for the car dynamics and a logit approximation of the piecewise Fiala brush tire model. Skip to the [results](https://youtu.be/JB334BDw6gY), study the [paper](https://github.com/qizhantam/portfolio/raw/master/docs/papers/Alsterda_Tam.pdf) for all the details, or read the [code](https://github.com/JohnHaTrick/AA203).
 
 ### Autonomous Search and Rescue 
