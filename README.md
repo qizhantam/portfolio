@@ -19,9 +19,10 @@ I leveraged upon the flocking instinct of herd animals in a [study](https://gith
 I developed and implemented a reinforcement learning control policy for distributed batteries in a simulated residential environment using the IEEE 123 feeder model supplied with real user load and modeled solar generation. This was a course project for CS238: Decision Making under Uncertainty. The paper can be downloaded [here](https://github.com/qizhantam/portfolio/raw/master/docs/papers/AA228_Course%20Paper.pdf).
 
 ### Density Functional Theory Computations for Li-ion Battery Materials (Teaching Material)
-I developed this project for the students of ME420. It involved the quantum mechanical calculations of Lithium Cobalt Oxide crystal structures to predict the voltage and volume changes of the crystals during charge cycling. All computations were done using [QuantumEspresso](https://www.quantum-espresso.org/) on Stanford's High Performance Computing Cluster. Course material can be found [here](). The closing project discussion slides and the solutions to the assignments are made available upon request.  
+I developed this project for the students of ME420. It involved the quantum mechanical calculations of Lithium Cobalt Oxide crystal structures to predict the voltage and volume changes of the crystals during charge cycling. All computations were done using [QuantumEspresso](https://www.quantum-espresso.org/) on Stanford's High Performance Computing Cluster. Course material can be found [here](I'm in the process of consolidating my 2016 and older projects onto this page, but you can still check them out [here](https://tamqizhan.wixsite.com/portfolio/).). The closing project discussion slides and the solutions to the assignments are made available upon request.  
 2018 Update: Modified for Slurm job scheduler (previously PBS).
 
-## Under Construction
-![](https://openclipart.org/download/295167/just-bulldozer.svg){:height="30%" width="30%"}  
+## 2016-older
 I'm in the process of consolidating my 2016 and older projects onto this page, but you can still check them out [here](https://tamqizhan.wixsite.com/portfolio/).
+![](https://openclipart.org/download/295167/just-bulldozer.svg){:height="30%" width="30%"}  
+
