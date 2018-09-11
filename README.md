@@ -27,26 +27,27 @@ I worked on this project while I was in a research rotation with the Stanford [N
 
 ## 2016
 ### [Nano Letters] Heterogeneity in the Small-Scale Deformation Behavior of Disordered Nanoparticle Packings  
-[paper](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b05319){:target="_blank"}
+I studied the mechanical properties of amorphous materials by using an Atomic Force Microscope (AFM) [to perform nanoindentations on nanoparticle packings](https://i.imgur.com/xXeFftD.gif){:target="_blank"}. I found trends using image recognition on MATLAB and gave a group presentation on the new findings. You can find the details in the [paper](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b05319){:target="_blank"}.
 
 ### Evaporasun, raising solar panel efficiency through passive cooling.
 Evaporasun is the product of my senior design project with 3 other team members. We performed small scale solar panel tests in a controlled environment to evaluate the effects of different cooling methods. After gathering data and developing models, we designed and built a fully passive cooling system through capillary action, finally validating our design and predictive models on a full scale commercial solar panel. We predict a 20<sup>o</sup>C decrease in temperature under simulated peak sun conditions using our passive cooling system and 10% average increase in power output. Visit the [project website](https://tamqizhan.wixsite.com/portfolio/project-evaporasun){:target="_blank"}, or download the [poster](https://github.com/qizhantam/portfolio/blob/master/docs/papers/TransluSun_poster-6-page-001.jpg){:target="_blank"} and [full report](https://github.com/qizhantam/portfolio/blob/master/docs/papers/TransluSun_finalReport.pdf){:target="_blank"}.
 
 ## 2015
 ### String Stability of Independent Autonomous Vehicles
-[project website](https://tamqizhan.wixsite.com/portfolio/project-train-chain){:target="_blank"}
+In this project I studied the propagation of instability that arises from autonomous vehicles independent of one another. I simulated and implemented a feedback controller for independent miniature electric vehicles following a lead train at varying velocities and directions based on sensory data from on-board ultrasonic sensors. For more information and a video of the experiment, visit the [project website](https://tamqizhan.wixsite.com/portfolio/project-train-chain){:target="_blank"}.
 
 ### Automatic Ball-Balancing
-[project website](https://tamqizhan.wixsite.com/portfolio/project-ball-balancing-act){:target="_blank"}
+The objective of this project is to balance a ball at different points along an inherently unsteady rail by using computer vision to track the ball’s position and a PID controller to maintain the ball’s position. I modelled the kinetics of the ball based on the rail geometry and used the model to design the PID controller. Visit the [project website](https://tamqizhan.wixsite.com/portfolio/project-ball-balancing-act){:target="_blank"} for videos of the various design configurations.
 
 ## 2014
-### Machine Design and Manufacturing: Beta-type Stirling Heat Engine
-[project website](https://tamqizhan.wixsite.com/portfolio/project-beta-type-stirling-heat-eng){:target="_blank"}, [video](https://www.youtube.com/watch?v=--OT9Ku7soA){:target="_blank"}
-
-### [Applied Physics Letters] Direct torsional actuation of microcantilevers using magnetic excitation
-[paper](https://aip.scitation.org/doi/citedby/10.1063/1.4894737){:target="_blank"}
+### Machine Design and Manufacturing: Gamma-type Stirling Heat Engine
+Using 2.5D CNC mills and lathes, I designed and machined a Gamma-type Stirling Heat Engine from aluminum and steel which ran at over 1000 RPM. Visit the [project website](https://tamqizhan.wixsite.com/portfolio/project-beta-type-stirling-heat-eng){:target="_blank"} for a detailed look at the designs, or skip to the [video](https://www.youtube.com/watch?v=--OT9Ku7soA){:target="_blank"} (I apologize for the low quality video ahead of time.)
 
 ### Designing and Testing a New Microcantilever Calibration Device for an Advanced Atomic Force Microscope 
-[poster](https://github.com/qizhantam/portfolio/blob/master/docs/papers/Qizhan_Poster_7.30-1.jpg){:target="_blank"}, [report](https://github.com/qizhantam/portfolio/blob/master/docs/papers/Littlejohn_report.pdf){:target="_blank"}
+I performed research on the application of the Diamagnetic Lateral Force Calibration on the Ultra High Vacuum 750 AFM by RHK. Check out the [cool levitating graphite-mica composite](https://youtu.be/k_1TMDkXIWw){:target="_blank"}, which is the central component of the calibration device. I designed and machined custom parts using CNC mills and lathes. The parts were particularly challenging to machine as they have small tolerances and dimensions (~1" in diameter, ~1/4" thick). Unorthodox methods were used in making them. You can see a summary of the project by going over the
+[poster](https://github.com/qizhantam/portfolio/blob/master/docs/papers/Qizhan_Poster_7.30-1.jpg){:target="_blank"} or read the full story in the [report](https://github.com/qizhantam/portfolio/blob/master/docs/papers/Littlejohn_report.pdf){:target="_blank"}.
+
+### [Applied Physics Letters] Direct torsional actuation of microcantilevers using magnetic excitation
+My first foray into research, I investigated the improvement in data collection from attaching magnetic beads to AFM tips. [paper](https://aip.scitation.org/doi/citedby/10.1063/1.4894737){:target="_blank"}
 
 
