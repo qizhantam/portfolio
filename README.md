@@ -22,7 +22,11 @@ I developed and implemented a reinforcement learning control policy for distribu
 I developed this project for the students of ME420. It involved the quantum mechanical calculations of Lithium Cobalt Oxide crystal structures to predict the voltage and volume changes of the crystals during charge cycling. All computations were done using [QuantumEspresso](https://www.quantum-espresso.org/) on Stanford's High Performance Computing Cluster. Course material can be found [here](https://github.com/qizhantam/ME420_DensityFunctionalTheory_LiBattery). The closing project discussion slides and the solutions to the assignments are made available upon request.  
 2018 Update: Modified for Slurm job scheduler (previously PBS).
 
-## 2016-older
-I'm in the process of consolidating my 2016 and older projects onto this page. You can check out those projects [here](https://tamqizhan.wixsite.com/portfolio/).  
+### CFD Modeling and Optimization of Fin Array Packaging Solutions for MicroThermoelectric Generator Devices (ASME InterPACK, SystemX Alliance 2017)
+I worked on this project while I was in a research rotation with the Stanford [Nanoheat Lab](https://nanoheat.stanford.edu/). This project was funded and done in collaboration with Analog Devices to study effective fin designs for heat sinks of novel micro-thermoelectric generator devices through analytical and CFD analysis. I presented a [poster](https://github.com/qizhantam/portfolio/raw/master/docs/papers/Interpack2017%20v4.pdf) on this project in the 2017 ASME InterPACK conference held in San Francisco and the 2017 SystemX Alliance Conference held in Stanford.
+
+## 2016-older 
+
+I'm in the process of consolidating my 2016 and older projects onto this page. You can check out those projects [here](https://tamqizhan.wixsite.com/portfolio/).
 
 
