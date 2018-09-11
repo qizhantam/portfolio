@@ -1,5 +1,5 @@
 ## 2018
-### Signal Temporal Logic meets Hamilton-Jacobi Reachability: Connections and Applications (WAFR 2018, co-first author)
+### [WAFR 2018, co-first author] Signal Temporal Logic meets Hamilton-Jacobi Reachability: Connections and Applications
 The goal of this project is to merge STL with HJ-Reachability such that time-varying objectives of a robot can be achieved while guaranteeing safety. I worked on this project during my Master's degree in the [Stanford Autonomous Systems Laboratory](http://asl.stanford.edu/). You can find the details in the [paper](http://asl.stanford.edu/wp-content/papercite-data/pdf/Chen.Tam.Livingston.Pavone.WAFR18.pdf) which was recently accepted to the 2018 Workshop on the Algorithmic Foundations of Robotics. You can also watch the [experiments](https://www.youtube.com/watch?v=SI4bbBVkcgs&t=2s) or dive into the deep end with the [code](https://github.com/StanfordASL/stlhj).
 
 ### Drift Initiation via Nonlinear Trajectory Optimization
@@ -22,11 +22,31 @@ I developed and implemented a reinforcement learning control policy for distribu
 I developed this project for the students of ME420. It involved the quantum mechanical calculations of Lithium Cobalt Oxide crystal structures to predict the voltage and volume changes of the crystals during charge cycling. All computations were done using [QuantumEspresso](https://www.quantum-espresso.org/) on Stanford's High Performance Computing Cluster. Course material can be found [here](https://github.com/qizhantam/ME420_DensityFunctionalTheory_LiBattery). The closing project discussion slides and the solutions to the assignments are made available upon request.  
 2018 Update: Modified for Slurm job scheduler (previously PBS).
 
-### CFD Modeling and Optimization of Fin Array Packaging Solutions for MicroThermoelectric Generator Devices (ASME InterPACK, SystemX Alliance 2017)
+### [ASME InterPACK, SystemX Alliance Conference] CFD Modeling and Optimization of Fin Array Packaging Solutions for MicroThermoelectric Generator Devices 
 I worked on this project while I was in a research rotation with the Stanford [Nanoheat Lab](https://nanoheat.stanford.edu/). This project was funded and done in collaboration with Analog Devices to study effective fin designs for heat sinks of novel micro-thermoelectric generator devices through analytical and CFD analysis. I presented a [poster](https://github.com/qizhantam/portfolio/raw/master/docs/papers/Interpack2017%20v4.pdf) on this project in the 2017 ASME InterPACK conference held in San Francisco and the 2017 SystemX Alliance Conference held in Stanford.
 
-## 2016-older 
+## 2016
+### [Nano Letters] Heterogeneity in the Small-Scale Deformation Behavior of Disordered Nanoparticle Packings  
+[paper](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b05319)
 
-I'm in the process of consolidating my 2016 and older projects onto this page. You can check out those projects [here](https://tamqizhan.wixsite.com/portfolio/).
+### Evaporasun, raising solar panel efficiency through passive cooling.
+Evaporasun is the product of my senior design project with 3 other team members. We performed small scale solar panel tests in a controlled environment to evaluate the effects of different cooling methods. After gathering data and developing models, we designed and built a fully passive cooling system through capillary action, finally validating our design and predictive models on a full scale commercial solar panel. We predict a 20^oC decrease in temperature under simulated peak sun conditions using our passive cooling system and 10% average increase in power output. Visit the [project website](https://tamqizhan.wixsite.com/portfolio/project-evaporasun), or download the [poster](https://github.com/qizhantam/portfolio/raw/master/docs/papers/TransluSun_poster-6-page-001.jpg) and [full report](https://github.com/qizhantam/portfolio/raw/master/docs/papers/TransluSun_finalReport.pdf).
+
+## 2015
+### String Stability of Independent Autonomous Vehicles
+[project website](https://tamqizhan.wixsite.com/portfolio/project-train-chain)
+
+### Automatic Ball-Balancing
+[project website](https://tamqizhan.wixsite.com/portfolio/project-ball-balancing-act)
+
+## 2014
+### Machine Design and Manufacturing: Beta-type Stirling Heat Engine
+[project website](https://tamqizhan.wixsite.com/portfolio/project-beta-type-stirling-heat-eng), [video](https://www.youtube.com/watch?v=--OT9Ku7soA)
+
+### [Applied Physics Letters] Direct torsional actuation of microcantilevers using magnetic excitation
+[paper](https://aip.scitation.org/doi/citedby/10.1063/1.4894737)
+
+### Designing and Testing a New Microcantilever Calibration Device for an Advanced Atomic Force Microscope 
+[poster](https://github.com/qizhantam/portfolio/raw/master/docs/papers/Qizhan_Poster_7.30-1.jpg), [report](https://github.com/qizhantam/portfolio/raw/master/docs/papers/Littlejohn_report.pdf)
 
 
